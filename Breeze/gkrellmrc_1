@@ -1,0 +1,11 @@
+Style *.textcolor = #7d8084 #000000 none
+Style *.alt_textcolor = #7d8084 #000000 none
+
+StyleChart *.textcolor = #7d8084 #000000 none
+StyleChart *.alt_textcolor = #7d8084 #000000 none
+
+StylePanel *.textcolor = #7d8084 #000000 none
+StylePanel *.alt_textcolor = #7d8084 #000000 none
+
+StyleMeter *.textcolor = #7d8084 #000000 none
+StyleMeter *.alt_textcolor = #7d8084 #000000 none
